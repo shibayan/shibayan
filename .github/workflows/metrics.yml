@@ -30,6 +30,7 @@ jobs:
           user: shibayan
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Tokyo
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
