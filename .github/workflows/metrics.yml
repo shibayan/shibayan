@@ -27,6 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          debug: true
           user: shibayan
           template: classic
           base: header, activity, community, repositories, metadata
