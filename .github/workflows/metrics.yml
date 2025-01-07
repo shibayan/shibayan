@@ -20,7 +20,7 @@ jobs:
           user: shibayan
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories_batch: 80
+          repositories_batch: 50
           config_display: large
           config_timezone: Asia/Tokyo
           plugin_languages: yes
